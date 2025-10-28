@@ -139,46 +139,7 @@ theme: {
 - **Additional Book Details**: Extend the book card component to display more information
 - **New Pages**: Add routing with React Router if needed
 
-## Deployment 🌐
-
-### Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy automatically
-
-### Netlify
-1. Build the project: `npm run build`
-2. Upload the `dist` folder to Netlify
-3. Configure redirects for SPA routing
-
-### GitHub Pages
-1. Install gh-pages: `npm install --save-dev gh-pages`
-2. Add deploy script to package.json:
-```json
-"scripts": {
-  "deploy": "gh-pages -d dist"
-}
-```
-3. Run: `npm run build && npm run deploy`
-
-## Browser Support 🌍
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## Contributing 🤝
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -am 'Add feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
-
-## License 📄
-
-This project is open source and available under the [MIT License](LICENSE).
+ 
 
 ## Acknowledgments 🙏
 
